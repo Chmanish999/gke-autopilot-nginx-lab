@@ -1,0 +1,15 @@
+Lab Title: GKE Autopilot and Nginx Deployment
+
+Concepts Learned:
+- Cluster: Managed infrastructure in GCP
+- Deployment: Manages application replicas
+- Pod: Smallest running unit in Kubernetes
+- YAML: Used to define configuration
+
+Observation:
+- Deployment created 3 pods automatically
+- Each pod runs nginx container
+- YAML defines full configuration
+
+Conclusion:
+This lab provided practical understanding of Kubernetes deployment using GKE Autopilot.
