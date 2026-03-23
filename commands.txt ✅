@@ -1,7 +1,0 @@
-# Basic Kubernetes Commands
-
-kubectl cluster-info
-kubectl get pods
-kubectl get deployments
-kubectl describe pod <pod-name>
-kubectl logs <pod-name>
